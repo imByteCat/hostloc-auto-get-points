@@ -22,3 +22,5 @@ Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 
 版本：https://github.com/xirikm/hostloc-auto-get-points/commit/d6e51b8483cc8af9d3e6627c2f4401a26e1c3cf2
 
 注意：由于脚本逻辑的问题，密码中不能含有英文逗号！
+
+2020.10.30 更新一下让 GitHub Actions 继续运行
